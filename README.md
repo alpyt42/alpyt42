@@ -1,11 +1,8 @@
 # About Me
-
 👨‍💻 Passionate about technology and its applications, with a diverse educational background spanning computer science, business strategy, and applied sciences.
 
 ## Projects List
-
 # 42 Projects 🎓
-
 1. [Libft](https://github.com/alpyt42/libft) - A library of useful functions for C programming.
 2. [Get_next_line](https://github.com/alpyt42/get_next_line) - A function that reads a line from a file descriptor.
 3. [Printf](https://github.com/alpyt42/ft_printf) - A custom implementation of the printf function in C.
