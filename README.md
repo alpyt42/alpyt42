@@ -1,16 +1,16 @@
-### Hi there 👋
+# 42 Projects
 
-<!--
-**alpyt42/alpyt42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub repository showcasing the projects I have completed during my time as a 42 student. Each project represents an important milestone in my learning journey. Feel free to explore and provide any feedback or suggestions.
 
-Here are some ideas to get you started:
+## Projects List
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+1. [Libft](https://github.com/alpyt42/libft) - A library of useful functions for C programming.
+2. [Get_next_line](https://github.com/alpyt42/get_next_line) - A function that reads a line from a file descriptor.
+3. [Printf](https://github.com/alpyt42/ft_printf) - A custom implementation of the printf function in C.
+4. [Push_swap](https://github.com/alpyt42/push_swap) - A sorting algorithm for a stack of numbers using limited operations.
+5. [Minishell](https://github.com/alpyt42/minishell) - A simple UNIX shell implementation with basic command execution and built-in functionalities.
+7. [ft_irc](https://github.com/alpyt42/ft_irc) - An Internet Relay Chat (IRC) server and client implementation.
+8. [Cub3D](https://github.com/alpyt42/cub3d) - A 3D maze game engine using raycasting techniques.
+9. [CPP](https://github.com/alpyt42/cpp) - Various C++ projects and exercises showcasing my skills in object-oriented programming.
+
+Please note that the above links lead to my personal repositories for each project, where you can find detailed information, source code, and documentation.
