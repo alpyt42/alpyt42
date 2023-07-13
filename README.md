@@ -6,6 +6,4 @@
 ![Python](https://img.shields.io/badge/Python-Advanced-yellow?logo=python?style=flat-square&logo=appveyor)
 
 # Projects List
-## 42 School 🎓
-1. [42_piscine](https://github.com/alpyt42/42_piscine)
-2. [42_projects](https://github.com/alpyt42/42_projects)
+### - 42 School 🎓 : [42_piscine](https://github.com/alpyt42/42_piscine)  | [42_projects](https://github.com/alpyt42/42_projects)
