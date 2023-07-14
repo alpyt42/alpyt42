@@ -1,4 +1,3 @@
-# About Me
 👨‍💻 Passionate about technology and its applications, with a diverse educational background spanning computer science, business strategy, and applied sciences.
 
 ![C](https://img.shields.io/badge/C-Advanced-blue?logo=c%2B%2B?style=flat-square&logo=appveyor)
