@@ -1,7 +1,34 @@
-👨‍💻 Passionate about technology and its applications, with a diverse educational background spanning computer science, business strategy, and applied sciences.
+<h1 align="center">Hi there, my name is Alric le Conte 👋</h1>
+<h3 align="center">👨‍💻 A Data Science Enthusiast</h3>
 
-![C](https://img.shields.io/badge/C-Advanced-blue?logo=c%2B%2B?style=flat-square&logo=appveyor)
-![C++](https://img.shields.io/badge/C++-Advanced-green?logo=c%2B%2B?style=flat-square&logo=appveyor)
-![Python](https://img.shields.io/badge/Python-Advanced-yellow?logo=python?style=flat-square&logo=appveyor)
+<p align="center">
+  <em>
+    Driven by a passion for uncovering insights from data, I have a diverse educational background in <b>computer science</b>, <b>business strategy</b>, and <b>applied sciences</b>. Currently delving into the world of data, seeking to leverage technology to drive informed decision-making.
+  </em>
+</p>
 
-### - 42 School 🎓 : [42_piscine](https://github.com/alpyt42/42_piscine)  | [42_projects](https://github.com/alpyt42/42_projects)
+<p align="center">
+  <img src="https://img.shields.io/badge/C-Advanced-blue?logo=c&style=for-the-badge&logoColor=white" alt="C Advanced"/>
+  <img src="https://img.shields.io/badge/C++-Advanced-green?logo=cplusplus&style=for-the-badge&logoColor=white" alt="C++ Advanced"/>
+  <img src="https://img.shields.io/badge/Python-Advanced-yellow?logo=python&style=for-the-badge&logoColor=blue" alt="Python Advanced"/>
+  <img src="https://img.shields.io/badge/R-Intermediate-blue?logo=R&style=for-the-badge&logoColor=white" alt="R Intermediate"/>
+  <img src="https://img.shields.io/badge/Machine_Learning-Enthusiast-orange?style=for-the-badge&logoColor=white" alt="Machine Learning Enthusiast"/>
+  <img src="https://img.shields.io/badge/Data_Visualization-Advanced-purple?style=for-the-badge&logoColor=white" alt="Data Visualization Advanced"/>
+</p>
+
+---
+
+<h3 align="center">🎓 42 School Projects</h3>
+
+<p align="center">
+  📚 <a href="https://github.com/alpyt42/42_piscine">42 Piscine</a> &nbsp;&nbsp;|&nbsp;&nbsp; 💻 <a href="https://github.com/alpyt42/42_projects">42 Projects</a>
+</p>
+
+
+---
+
+<h3 align="center">👀 I’m looking for an Internship in the Data Science field</h3>
+<p align="center">
+  Keen to apply my skills in a real-world setting, I am currently seeking internship opportunities in Data Science, where I can contribute to data-driven solutions and gain hands-on experience.
+</p>
+
