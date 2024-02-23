@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, my name is Alric le Conte 👋</h1>
-<h3 align="center">👨‍💻 A Data Science Enthusiast</h3>
+<h3 align="center">👨‍💻 Data Scientist</h3>
 
 <p align="center">
   <em>
@@ -27,8 +27,8 @@
 
 ---
 
-<h3 align="center">👀 I’m looking for an Internship in the Data Science field</h3>
+<h3 align="center">⚡ ML Projects</h3>
 <p align="center">
-  Keen to apply my skills in a real-world setting, I am currently seeking internship opportunities in Data Science, where I can contribute to data-driven solutions and gain hands-on experience.
+   <a href="https://github.com/alpyt42/real_estate_ML">real_estate_ML</a>
 </p>
 
